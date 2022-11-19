@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DayaneMoises
-- 👀 I'm interested in being a software developer
-- 🌱 I'm currently learning Python and C#
+- 👀 I'm interested in being a quality assurance
+- 🌱 I'm currently learning JavaScript and C#
 
 <!---
 DayaneMoises/DayaneMoises is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
