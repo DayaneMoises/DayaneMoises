@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DayaneMoises
-- 👀 I'm interested in being a quality assurance
+- 👀 I'm interested in being a backend developer
 - 🌱 I'm currently learning JavaScript and C#
 
 <!---
